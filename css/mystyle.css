@@ -1,0 +1,8 @@
+img{width:20%;border-style: solid ;border-color:red;}
+.div1{background-color: aqua;height: 100px;width:100px;margin: 0%;}
+.div2{background-color:blueviolet;height: 100px;width: 100px;margin-left: 100px;}
+.div3{background-color: blue;height:100px;width:100px;margin-left: 200px;}
+h1{font-family: sofia;text-align: center;color:red;background-color: aquamarine;}
+.box1{height: 80px;background-color:yellow;}
+.box2{height: 80px;width:30%;float: left;background-color: blueviolet;}
+.box3{height: 80px;width:40%;background-color:brown;float: left;}
